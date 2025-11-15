@@ -5,9 +5,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  margin: 50px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+/* css 추가 하기 */
+
+h1 {
+  color: blue;
+}
+
+.main_content {
+  background-color: lightblue;
+  padding: 25px;
+  border-radius: 5px;
+  width: 500px;
+}
+
+h2 {
+  color: blue;
+  padding: 10px;
+  margin-top: 20px;
+  width: 250px;
 }
